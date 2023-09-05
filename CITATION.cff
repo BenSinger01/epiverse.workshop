@@ -1,0 +1,24 @@
+# -----------------------------------------------------------
+# CITATION file created with {cffr} R package, v0.5.0
+# See also: https://docs.ropensci.org/cffr/
+# -----------------------------------------------------------
+ 
+cff-version: 1.2.0
+message: 'To cite package "epiverse.workshop" in publications use:'
+type: software
+license: GPL-2.0-or-later
+title: 'epiverse.workshop: Epiverse Workshop'
+version: 0.0.0.9000
+abstract: A paragraph providing a full description of the project (on several lines...)
+authors:
+- family-names: Singer
+  given-names: Ben
+  email: benjaminjohnsinger@gmail.com
+  orcid: https://orcid.org/0000-0003-3062-2620
+repository-code: https://github.com/BenSinger01/epiverse.workshop
+url: https://github.com/BenSinger01/epiverse.workshop
+contact:
+- family-names: Singer
+  given-names: Ben
+  email: benjaminjohnsinger@gmail.com
+  orcid: https://orcid.org/0000-0003-3062-2620
